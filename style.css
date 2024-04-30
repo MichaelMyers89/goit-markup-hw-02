@@ -19,7 +19,7 @@ font-weight: 500;
 }
 .link_color {color: #2e2f42;
     }
-.link_color a:hover {color:#404bbf}
+a:hover {color:#404bbf}
 a:active {color:#404bbf}
 a:focus {color: #404bbf;}
 .contact{ font-style: normal;
