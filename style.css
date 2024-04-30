@@ -18,20 +18,18 @@
 
 font-weight: 500;
 }
-.link_color {color: #2e2f42;
-                
-    }
-a:hover {color:#404bbf}
-a:active {color:#404bbf}
-a:focus {color: #404bbf;}
-.contact{ font-style: normal;
+.link_color {color: #2e2f42;}
+a:hover   {color:#404bbf}
+a:active  {color:#404bbf}
+a:focus   {color: #404bbf;}
+.contact  { font-style: normal;
     color: #434455;}
     
     
-    .head-letter{ 
-        background-color: #2e2f42 ;}
-        .head-style{
-      font-size: 56px;
+    .firs-area{ 
+            background-color: #2e2f42 ;}
+    .head-style{
+            font-size: 56px;
             line-height: 1.07;
             text-align: center;
             letter-spacing: 0.02em;
