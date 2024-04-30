@@ -45,10 +45,11 @@ a:focus   {color: #404bbf;}
     .hvr:hover {background-color: #404BBF
     }        
     .hvr:focus{background-color: #404BBF}
-    .port{font-weight: 500;
-    font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
+    .port{list-style: none;}
+    .head{font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+    letter-spacing: 0.02em;
 color: #2e2f42;}
-.heads{line-height: 1.5;
-letter-spacing: 0.02em;}
+.texts {line-height: 1.5;
+    letter-spacing: 0.02em;}
