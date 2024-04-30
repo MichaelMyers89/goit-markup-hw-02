@@ -41,10 +41,7 @@ a:focus   {color: #404bbf;}
             line-height: 1.5;
             letter-spacing: 0.04em;
             color:#ffffff ;
-            
-            
-            
-            
-
+            cursor: pointer; }
+    .hvr:hover {background-color: #404BBF
     }        
-    
+    .hvr:focus{background-color: #404BBF}
