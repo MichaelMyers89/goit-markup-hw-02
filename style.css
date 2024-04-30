@@ -1,4 +1,6 @@
 .body_style {font-family: "Roboto", sans-serif;
+    color:  #434455;
+    background-color: #FFFFFF"
 ;}
 .logo_link {text-decoration: none;
 font-family:'Raleway', sans-serif ;
@@ -8,8 +10,10 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 color:#4d5ae5 ;
 text-transform: uppercase;}
+.logotext {font-family:"Roboto", sans-serif ;}
 .ul_style {line-height: 1.5;
 letter-spacing: 0.02em;
+list-style: none;
 
 font-weight: 500;
 }
@@ -18,7 +22,3 @@ a:hover {color:#404bbf}
 a:active {color:#404bbf}
 .link_color2 {color: #2e2f42;}
 .link_color3 {color: #2e2f42;}
-.adress_style{font-size: normal;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color:#434455 ;}
