@@ -1,2 +1,10 @@
 .body_style {font-family: "Roboto", sans-serif;
 ;}
+.logo_link {text-decoration: none;
+font-family:'Raleway', sans-serif ;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+color:#4d5ae5 ;
+text-transform: uppercase;}
