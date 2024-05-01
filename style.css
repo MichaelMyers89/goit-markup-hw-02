@@ -51,6 +51,7 @@ a:focus   {color: #404bbf;}
         line-height: 1.2;
     letter-spacing: 0.02em;
 color: #2e2f42;}
+
 .texts {line-height: 1.5;
     letter-spacing: 0.02em;}
     
@@ -65,6 +66,9 @@ color: #2e2f42;}
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: #2e2f42;}
+
+.ul_style3{list-style: none;}
+
 .section3list{background-color: #ffffff;}
     
     
