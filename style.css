@@ -55,7 +55,8 @@ color: #2e2f42;}
     letter-spacing: 0.02em;}
     
     
-.ul_style2{list-style: none}
+.ul_style2{list-style: none;
+background-color: #ffffff;}
 
 .section3{background-color:#F4F4FD ;}
 
@@ -65,7 +66,7 @@ text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;}
-.section3list{background-color: #ffffff;}
+
     
     
     
