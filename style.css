@@ -20,44 +20,49 @@
             color: #2e2f42;
             
 }
+.link_color {color: #434455;}
+a:hover   {color:#404bbf}
+a:active  {color:#404bbf}
+a:focus   {color: #404bbf;}
+
 .contact  { font-style: normal;
         
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
-.link_color {color: #434455;}
-a:hover   {color:#404bbf}
-a:active  {color:#404bbf}
-a:focus   {color: #404bbf;}
-
-    
-    
-    .firs-area{ 
-            background-color: #2e2f42 ;}
-    .head-style{
-            font-size: 56px;
-            line-height: 1.07;
-            text-align: center;
-            letter-spacing: 0.02em;
-            color:#ffffff ;}
-    .button {background-color:#4D5AE5;
-            font-family: "Roboto", sans-serif ;
-            font-weight: 500;
-            font-size: 16px;
-            line-height: 1.5;
-            letter-spacing: 0.04em;
-            color:#ffffff ;
-            cursor: pointer; }
-    .hvr:hover {background-color: #404BBF
-    }        
-    .hvr:focus{background-color: #404BBF}
-    .section2{list-style: none;}
+.firs-area{ 
+        background-color: #2e2f42 ;}
+        .head-style{
+                font-size: 56px;
+                line-height: 1.07;
+                text-align: center;
+                letter-spacing: 0.02em;
+                color:#ffffff ;}
+                .button {background-color:#4D5AE5;
+                        font-family: "Roboto", sans-serif ;
+                        font-weight: 500;
+                        font-size: 16px;
+                        line-height: 1.5;
+                        letter-spacing: 0.04em;
+                        color:#ffffff ;
+                        cursor: pointer; }
+                .hvr:hover {background-color: #404BBF
+                }        
+                .hvr:focus{background-color: #404BBF}
+                .section2{list-style: none;}
     .head{font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
     letter-spacing: 0.02em;
 color: #2e2f42;}
+
+    
+    
+    
+    
+    
+    
 
 .texts {line-height: 1.5;
     letter-spacing: 0.02em;}
