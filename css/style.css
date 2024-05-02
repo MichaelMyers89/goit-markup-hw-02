@@ -28,6 +28,7 @@
 }
 .link_color {color: #2e2f42;
 text-decoration: none;}
+.link_colortwo{color: #434455;}
 a:hover   {color:#404bbf}
 a:active  {color:#404bbf}
 a:focus   {color: #404bbf;}
