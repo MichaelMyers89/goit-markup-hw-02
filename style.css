@@ -23,8 +23,8 @@
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;}
-.link_color {color: #2e2f42;}
+}
+.link_color {color: #434455;}
 a:hover   {color:#404bbf}
 a:active  {color:#404bbf}
 a:focus   {color: #404bbf;}
