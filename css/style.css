@@ -1,4 +1,5 @@
 .body_style {font-family: "Roboto", sans-serif;
+    color: #434455
         
             
     
@@ -25,7 +26,7 @@
            
             
 }
-.link_color {color: #434455;
+.link_color {color: #2e2f42;
 text-decoration: none;}
 a:hover   {color:#404bbf}
 a:active  {color:#404bbf}
