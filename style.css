@@ -16,9 +16,9 @@
             letter-spacing: 0.02em;
             list-style: none;
             font-weight: 500;
+            color: #434455;
 }
-.contact  { font-style: normal;
-        color: #434455;}
+.contact  { font-style: normal;}
 .link_color {color: #2e2f42;}
 a:hover   {color:#404bbf}
 a:active  {color:#404bbf}
