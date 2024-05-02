@@ -12,7 +12,8 @@
             color:#4d5ae5 ;
             text-transform: uppercase;}
 .logotext { font-family:"Roboto", sans-serif ;}
-.ul_style { line-height: 1.5;
+.ul_style {font-weight: 500;
+     line-height: 1.5;
             letter-spacing: 0.02em;
             font-size: 16px;
             list-style: none;
