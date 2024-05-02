@@ -18,9 +18,11 @@
             list-style: none;
             font-weight: 500;
             color: #2e2f42;
+           
             
 }
-.link_color {color: #434455;}
+.link_color {color: #434455;
+text-decoration: none;}
 a:hover   {color:#404bbf}
 a:active  {color:#404bbf}
 a:focus   {color: #404bbf;}
@@ -31,26 +33,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
-.firs-area{ 
-        background-color: #2e2f42 ;}
-        .head-style{
-                font-size: 56px;
-                line-height: 1.07;
-                text-align: center;
-                letter-spacing: 0.02em;
-                color:#ffffff ;}
-                .button {background-color:#4D5AE5;
-                        font-family: "Roboto", sans-serif ;
-                        font-weight: 500;
-                        font-size: 16px;
-                        line-height: 1.5;
-                        letter-spacing: 0.04em;
-                        color:#ffffff ;
-                        cursor: pointer; }
-                .hvr:hover {background-color: #404BBF
-                }        
-                .hvr:focus{background-color: #404BBF}
-                .section2{list-style: none;}
+
     .head{font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -82,33 +65,26 @@ color: #2e2f42;}
 .ul_style3{list-style: none;
 }
 .section3list{background-color: #ffffff;}
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+.firs-area{ 
+        background-color: #2e2f42 ;}
+        .head-style{
+                font-size: 56px;
+                line-height: 1.07;
+                text-align: center;
+                letter-spacing: 0.02em;
+                color:#ffffff ;}
+                .button {background-color:#4D5AE5;
+                        font-family: "Roboto", sans-serif ;
+                        font-weight: 500;
+                        font-size: 16px;
+                        line-height: 1.5;
+                        letter-spacing: 0.04em;
+                        color:#ffffff ;
+                        cursor: pointer; }
+                .hvr:hover {background-color: #404BBF
+                }        
+                .hvr:focus{background-color: #404BBF}
+                .section2{list-style: none;}
     .footer{line-height: 1.5;
            letter-spacing: 0.02em;
         color:#f4f4fd; }
