@@ -15,16 +15,15 @@
 .ul_style { line-height: 1.5;
             letter-spacing: 0.02em;
             list-style: none;
-            
-
-font-weight: 500;
+            font-weight: 500;
 }
+.contact  { font-style: normal;
+        color: #434455;}
 .link_color {color: #2e2f42;}
 a:hover   {color:#404bbf}
 a:active  {color:#404bbf}
 a:focus   {color: #404bbf;}
-.contact  { font-style: normal;
-    color: #434455;}
+
     
     
     .firs-area{ 
